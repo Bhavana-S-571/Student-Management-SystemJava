@@ -1,7 +1,7 @@
-# Student Management System (Core Java)
+# Student Management System (Java)
 
 ## 📌 Overview
-A console-based Student Management System built using Core Java.  
+A console-based Student Management System built using Java.  
 The application allows users to perform CRUD operations on student records through a menu-driven interface.
 
 ## ✨ Features
@@ -12,7 +12,7 @@ The application allows users to perform CRUD operations on student records throu
 - Menu-based console interaction
 
 ## 🛠 Technologies Used
-- Core Java
+- Java
 - IntelliJ IDEA
 - Git & GitHub
 
